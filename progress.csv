@@ -1,0 +1,2 @@
+date,problem,level,topic,status,notes
+2026-02-06,histogram_of_tweets,easy,aggregation,solved,used CTE for clarity
