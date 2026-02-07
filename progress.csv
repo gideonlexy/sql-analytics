@@ -1,2 +1,3 @@
 date,problem,level,topic,status,notes
 2026-02-06,histogram_of_tweets,easy,aggregation,solved,used CTE for clarity
+2026-02-07,unfinished_parts_tesla,easy,logical operators,solved,used IS NULL to filter unfinished parts
