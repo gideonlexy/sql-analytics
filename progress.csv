@@ -1,5 +1,9 @@
 date,problem,level,topic,status,notes
 2026-02-06,histogram_of_tweets,easy,aggregation,solved,used CTE for clarity
 2026-02-07,unfinished_parts_tesla,easy,logical operators,solved,used IS NULL to filter unfinished parts
-026-02-08,page_with_no_likes,easy,logical operators,solved,used NOT EXISTS to filter page with likes
+2026-02-08,page_with_no_likes,easy,logical operators,solved,used NOT EXISTS to filter page with likes
+2026-02-16,supercloud_customer,medium,joins, group by,solved,used LEFT JOIN to find customers without supercloud orders
+2026-02-17,highest_grossing_items,medium,window functions,solved,used CTE and DENSE_RANK() to rank products within each category by total spend in 2022
+
+
 
