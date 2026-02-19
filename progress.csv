@@ -2,8 +2,19 @@ date,problem,level,topic,status,notes
 2026-02-06,histogram_of_tweets,easy,aggregation,solved,used CTE for clarity
 2026-02-07,unfinished_parts_tesla,easy,logical operators,solved,used IS NULL to filter unfinished parts
 2026-02-08,page_with_no_likes,easy,logical operators,solved,used NOT EXISTS to filter page with likes
+2026-02-09,cities_with_completed_orders,easy,joins,aggregation, group by,solved,used INNER JOIN to find cities with completed orders
+2026-02-09,pharmacy_analytics,easy,arithmetic operations,solved,profits = revenue - cost
+2026-02-10,laptops_vs_mobile_viewership,easy,conditionla logic, arithmetic operations,solved,used CASE to categorize devices and calculate viewership
+2026-02-11,advertisers_status,hard,joins, conditionla logic,solved,used CASE to update advertiser status based on spend and their payment history
+2026-02-12,average_post_hiatus,easy,aggregation,group by,solved,used AVG() to calculate average posts per user after hiatus
+2026-02-15,top_selling_artist,medium,window functions,solved,used CTE and DENSE_RANK() to rank artists by revenue per member within each genre
 2026-02-16,supercloud_customer,medium,joins, group by,solved,used LEFT JOIN to find customers without supercloud orders
 2026-02-17,highest_grossing_items,medium,window functions,solved,used CTE and DENSE_RANK() to rank products within each category by total spend in 2022
+2026-02-18,histogram_of_user_and_purchases,medium,window functions,solved,used CTE and ROW_NUMBER() to get most recent transaction per user
+2026-02-18,histogram_of_user_and_purchases,medium,window functions,solved,used CTE and ROW_NUMBER() to get most recent transaction per user
+2026-02-18,top5_artists,medium,joins, group by, window functions,solved,used CTE and DENSE_RANK() to rank artists by number of songs in global top 10
+2026-02-19,year_on_year_growth_rate,hard, window functions,solved,used CTE and LAG() to compute YoY growth rate per product
+2026-02-19,odd_and_even_measurements,medium,window functions,solved,used CTE and ROW_NUMBER() to separate odd and even measurements
 
 
 
