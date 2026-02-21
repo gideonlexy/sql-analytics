@@ -15,6 +15,7 @@ date,problem,level,topic,status,notes
 2026-02-18,top5_artists,medium,joins, group by, window functions,solved,used CTE and DENSE_RANK() to rank artists by number of songs in global top 10
 2026-02-19,year_on_year_growth_rate,hard, window functions,solved,used CTE and LAG() to compute YoY growth rate per product
 2026-02-19,odd_and_even_measurements,medium,window functions,solved,used CTE and ROW_NUMBER() to separate odd and even measurements
-
+2026-02-20,maximize_prime_item_inventory,hard,unions,solved, used CTE and UNION ALL to combine prime and non-prime items
+2026-02-21,pharmacy_analytics_part3,easy,aggregation, string formatiing, solved,used CTE, group by and string formatting to calculate total drug sales per manufacturer
 
 
