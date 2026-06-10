@@ -1,5 +1,5 @@
 -- Platform : StataScratch
--- Problem : Bike Last Used(DC Bikeshare)
+-- Problem : Bike Last Used(DoorDash)
 
 -- Output : bike_number, end_time
 -- Entity/Who?: bike
